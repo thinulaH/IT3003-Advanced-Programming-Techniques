@@ -4,7 +4,7 @@ class Ifelse{
 		if (num>=0){
 			System.out.println("Number is a positive number");
 		}else{
-			System.out.println("Number is a negative number")
+			System.out.println("Number is a negative number");
 		}
 		
 	}
